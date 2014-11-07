@@ -1,1 +1,1 @@
-# See <https://github.com/lgarron/issues/issues>
+# See <https://github.com/lgarron/first-world/issues>
